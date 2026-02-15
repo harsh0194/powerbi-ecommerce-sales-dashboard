@@ -1,5 +1,5 @@
-# powerbi-ecommerce-sales-dashboard
-Sales Dashboard PowerBI
+# Powerbi-ecommerce-sales-dashboard
+
 📊 E-Commerce Sales Dashboard – Power BI
 Overview
 
